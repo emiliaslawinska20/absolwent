@@ -1,0 +1,2 @@
+# absolwent
+prosta aplikacja Django
